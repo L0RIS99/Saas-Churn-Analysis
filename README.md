@@ -1,7 +1,5 @@
-# Saas-Churn-Analysis
-SQL + Power BI analysis of churn, retention, and unit economics (CLV/CAC) for a B2B SaaS company
-
 # SaaS Revenue & Churn Analysis
+SQL + Power BI analysis of churn, retention, and unit economics (CLV/CAC) for a B2B SaaS company
 
 Analysis of customer retention, monthly recurring revenue (MRR), and unit economics for a fictional B2B SaaS company (CloudTask Pro), built to support a board presentation on churn trends and growth levers.
 
